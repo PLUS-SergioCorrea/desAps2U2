@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<locations>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<location>
+<id>KOT00001</id>
+<iteration>13</iteration>
+<creDate>now</creDate>
+<modDate>just</modDate>
+<username>now</username>
+</location>
+
+<location>
+<id>KOT00003</id>
+<iteration>32</iteration>
+<creDate>a few secs ago</creDate>
+<modDate>now</modDate>
+<username>deoxys</username>
+</location>
+</locations>
